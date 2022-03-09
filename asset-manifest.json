@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-training-yash-joshi/static/css/main.073c9b0a.css",
+    "main.js": "/react-training-yash-joshi/static/js/main.fc93fe86.js",
+    "static/js/787.d81f3025.chunk.js": "/react-training-yash-joshi/static/js/787.d81f3025.chunk.js",
+    "index.html": "/react-training-yash-joshi/index.html",
+    "main.073c9b0a.css.map": "/react-training-yash-joshi/static/css/main.073c9b0a.css.map",
+    "main.fc93fe86.js.map": "/react-training-yash-joshi/static/js/main.fc93fe86.js.map",
+    "787.d81f3025.chunk.js.map": "/react-training-yash-joshi/static/js/787.d81f3025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fc93fe86.js"
+  ]
+}
