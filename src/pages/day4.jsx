@@ -26,7 +26,7 @@ class Parent extends React.Component {
   render() {
     return (
       <>
-        <h1>Information from API</h1>
+        <h1>Student Information from API</h1>
         <table border="1" align="center">
           <tbody>
             <tr>
